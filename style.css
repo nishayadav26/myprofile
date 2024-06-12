@@ -1,3 +1,12 @@
-body{
-    background-image: url(WhatsApp\ Image\ 1.jpg);
+.banner1{
+    background-image:  url(bg1.jpeg) ;
+    height: 700PX;
+    width: auto;
+    text-align: center;
+}
+.container{
+    font-family: Playfair Display, serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;text-align: center;  
 }
